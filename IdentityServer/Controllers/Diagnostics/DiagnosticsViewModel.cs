@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Text;
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     public class DiagnosticsViewModel
     {

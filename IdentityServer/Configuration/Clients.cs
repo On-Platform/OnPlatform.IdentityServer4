@@ -1,7 +1,7 @@
 ﻿using IdentityServer4;
 using IdentityServer4.Models;
 
-namespace IdentityServer.Configuration
+namespace OnPlatform.IdentityServer.Configuration
 {
     public class Clients
     {

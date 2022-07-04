@@ -1,4 +1,4 @@
-using IdentityServer.Configuration;
+using OnPlatform.IdentityServer.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 

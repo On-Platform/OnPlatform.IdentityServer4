@@ -4,7 +4,7 @@
 
 using IdentityServer4.Models;
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     public class ProcessConsentResult
     {

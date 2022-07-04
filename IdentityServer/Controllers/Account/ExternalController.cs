@@ -15,7 +15,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     [SecurityHeaders]
     [AllowAnonymous]

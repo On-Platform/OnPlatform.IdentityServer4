@@ -3,7 +3,7 @@
 
 
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     public class RedirectViewModel
     {

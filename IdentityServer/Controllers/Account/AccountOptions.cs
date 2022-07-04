@@ -4,7 +4,7 @@
 
 using System;
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     public class AccountOptions
     {

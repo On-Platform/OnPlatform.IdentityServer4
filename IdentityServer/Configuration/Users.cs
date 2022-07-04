@@ -2,7 +2,7 @@
 using IdentityServer4.Test;
 using System.Security.Claims;
 
-namespace IdentityServer.Configuration
+namespace OnPlatform.IdentityServer.Configuration
 {
     public class Users
     {

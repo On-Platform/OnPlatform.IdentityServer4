@@ -15,7 +15,7 @@ using IdentityServer4.Validation;
 using System.Collections.Generic;
 using System;
 
-namespace IdentityServer.Controllers.UI
+namespace OnPlatform.IdentityServer.Controllers.UI
 {
     /// <summary>
     /// This controller processes the consent UI
